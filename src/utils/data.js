@@ -1,48 +1,48 @@
 export const categories = [
   {
-    name: 'shonen',
-    image: 'https://wallpaper.dog/large/5562906.jpg',
+    name: 'nature',
+    image: 'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-james-wheeler-417074.jpg&fm=jpg',
   },
   {
-    name: 'shoujo',
-    image: 'https://images2.alphacoders.com/454/thumb-1920-454764.jpg',
+    name: 'anime',
+    image: 'https://i.pinimg.com/originals/cd/98/87/cd9887a99ed579605a92c1bd8b22cc3f.jpg',
   },
   {
-    name: 'seinen',
-    image: 'https://wallpaperaccess.com/full/1120772.jpg',
+    name: 'sports',
+    image: 'https://images.cdn4.stockunlimited.net/preview1300/soccer-wallpaper_1817518.jpg',
   },
   {
-    name: 'josei',
-    image: 'https://wallpapercave.com/wp/wp5329460.jpg',
+    name: 'food',
+    image: 'https://media.istockphoto.com/photos/varied-food-carbohydrates-protein-vegetables-fruits-dairy-legumes-on-picture-id1218254547?b=1&k=20&m=1218254547&s=170667a&w=0&h=mOEC7x7qU5NC78mCULs-jAPeLkxy8opOvIbGSnwmAyw=',
   },
   {
-    name: 'harem',
-    image: 'https://w0.peakpx.com/wallpaper/304/502/HD-wallpaper-waifus-paradise-anime-harem-hunterxhunter-manga-mikasa-reverse-harem-sinon-waifu-waifus-zero-two.jpg',
+    name: 'portait',
+    image: 'https://wallpapercave.com/wp/wp2419342.jpg',
   },
   {
-    name: 'post-apocalyptic',
-    image: 'https://images5.alphacoders.com/508/508247.jpg',
+    name: 'fashion',
+    image: 'https://wallpaper.dog/large/20386210.png',
   },
   {
-    name: 'sports ',
-    image: 'https://c4.wallpaperflare.com/wallpaper/186/803/587/anime-haikyu-wallpaper-preview.jpg',
+    name: 'architectural',
+    image: 'https://wallpaperaccess.com/full/153244.jpg',
   },
   {
-    name: 'art',
-    image: 'https://i.pinimg.com/736x/f4/e5/ba/f4e5ba22311039662dd253be33bf5f0e.jpg',
+    name: 'products',
+    image: 'https://c0.wallpaperflare.com/preview/583/859/760/flat-lay-photography-of-silver-apple-products.jpg',
   }, {
-    name: 'travel',
-    image: 'https://i.pinimg.com/236x/fa/95/98/fa95986f2c408098531ca7cc78aee3a4.jpg',
+    name: 'pets',
+    image: 'https://wallpapercave.com/wp/wp2544022.jpg',
   },
   {
     name: 'Game',
-    image: 'https://wallpaperaccess.com/full/259563.jpg',
+    image: 'https://wallpaperaccess.com/full/7445.jpg',
   }, {
-    name: 'Kids',
-    image: 'https://wallpaperaccess.com/full/1186567.jpg',
+    name: 'kids',
+    image: 'https://i.etsystatic.com/25499622/r/il/a128a4/3897596002/il_570xN.3897596002_d9on.jpg',
   }, {
-    name: 'Romance ',
-    image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7abf8231-138c-4aae-a19f-8be568721bbb/d1h0fn6-8e40dcdb-619d-443d-bfc4-5bb8ef9595b4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhYmY4MjMxLTEzOGMtNGFhZS1hMTlmLThiZTU2ODcyMWJiYlwvZDFoMGZuNi04ZTQwZGNkYi02MTlkLTQ0M2QtYmZjNC01YmI4ZWY5NTk1YjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HLSTmpytNUOcWGKqqhaOP5XaeuwDs4RVMimuPXxAMSs',
+    name: 'scientific',
+    image: 'https://i.etsystatic.com/23334810/r/il/cab73c/2629458692/il_fullxfull.2629458692_6jde.jpg',
   },
   {
     name: 'others',
