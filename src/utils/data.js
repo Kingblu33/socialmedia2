@@ -35,7 +35,7 @@ export const categories = [
     image: 'https://wallpapercave.com/wp/wp2544022.jpg',
   },
   {
-    name: 'Game',
+    name: 'game',
     image: 'https://wallpaperaccess.com/full/7445.jpg',
   }, {
     name: 'kids',
@@ -45,8 +45,16 @@ export const categories = [
     image: 'https://i.etsystatic.com/23334810/r/il/cab73c/2629458692/il_fullxfull.2629458692_6jde.jpg',
   },
   {
+    name: 'romance',
+    image: 'https://wallpapercave.com/wp/wp5258759.jpg',
+  },
+  {
+    name: 'mythical',
+    image: 'https://c4.wallpaperflare.com/wallpaper/52/308/994/four-horsemen-of-the-apocalypse-artwork-fantasy-art-wallpaper-preview.jpg',
+  },
+  {
     name: 'others',
-    image: 'https://i.pinimg.com/236x/2e/63/c8/2e63c82dfd49aca8dccf9de3f57e8588.jpg',
+    image: 'https://c4.wallpaperflare.com/wallpaper/52/308/994/four-horsemen-of-the-apocalypse-artwork-fantasy-art-wallpaper-preview.jpg',
   },
 ];
 
